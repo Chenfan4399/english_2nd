@@ -48,7 +48,17 @@ Yes
 <!-- Content_START --> 
 
 ### 2024.10.08
--今天背了40分钟单词，听了daliy Diction的1-4，但是提交md文件的时候出了点问题，之前记录的全都消失了，没保存下来，希望以后一切顺利，冲！
+今天背了点单词，听了几个blibil的daliy Dictation。
+![image](https://github.com/user-attachments/assets/ed8989e3-6acb-4488-b154-ecaedac7145a)
+-Dictation_1:Mother ****，who received the nobie peace prize ,for her work on behalf of the poor died on the *** india ,she ****87 years old.
+-fix:Mother teresa，who received the nobie peace prize ,for her work on behalf of the poor dies in calcuha, india ,she was 87 years old.具体的人名、地名听不清、不会拼写
+
+-Dictation_2:Sorry waht time do you have,I ve five o'clock.
+-fix:
+
+-Dictation_3:there are three things ive learned ** never to discuss with people, religion,politics, ang great pumpkin.
+-fix:there are three things i have learned  never to discuss with people, religion,politics, ang great pumpkin. i have learnd ,现在完成时
+
 
 
 ### 2024.10.09
